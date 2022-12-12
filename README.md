@@ -1,3 +1,3 @@
-# Ranjita.Ambali
-#Place: Bgk
-#Hobbies:self motivator,listening music,playing games
+#Name:Ranjita.Ambali
+#Place: Bagalkot
+#Hobbies:Reading books,self motivator,listening music,playing games.
