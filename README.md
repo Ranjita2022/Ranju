@@ -5,6 +5,7 @@
 #Place: Bagalkot
 
 #Hobbies:Reading books,self motivator,listening music,playing games.
-
+|no.|Name|Branch|
+|1|Ranjita|CS|
 
 
